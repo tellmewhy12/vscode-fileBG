@@ -1,5 +1,6 @@
 ### Custom Background Images for VSCode!
 
+Custom background images for languages in vscode. Quick Demonstration:
 https://user-images.githubusercontent.com/71931749/133819638-9b65fea0-573f-4861-ad69-fe88564c916a.mp4
 
 This extension runs on the vscode custom-css extension.
@@ -64,8 +65,4 @@ FileBG.config = {
 ### Finally
 Finally, have fun! The possibilities for theming are endless and your imagination are the only borders!
 If you have a nice combination you can gladly showcase it here!
-
-# vscode-FileBG
-Custom Background Images for languages in VSCode
-
 
