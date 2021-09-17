@@ -1,15 +1,17 @@
 ### Custom Background Images for VSCode!
 
 Custom background images for languages in vscode. Quick Demonstration:
+
 https://user-images.githubusercontent.com/71931749/133819638-9b65fea0-573f-4861-ad69-fe88564c916a.mp4
 
 This extension runs on the vscode custom-css extension.
+
 https://github.com/be5invis/vscode-custom-css
 
 ### Installation
 
 
-1. Download and install the VSCode Custom-CSS-and-JS loader extension from the official link: https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css
+1. Download and install the Custom CSS and JS Loader extension from the official link: https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css
 2. Download FileBG [here](https://github.com/mangoepic/vscode-FileBG/releases/download/Release/FileBG.js) or from the releases page
 3. Add this code to your settings.json (<kbd>Ctrl</kbd>+<kbd>P</kbd> -> Open Settings (JSON))
 ```javascript
@@ -18,10 +20,10 @@ https://github.com/be5invis/vscode-custom-css
 ],
 ```
 4. Don't forget to insert your own path to the FileBG.js file on your computer
-5. Run VSCode with Admin Priviliges
+5. Run VSCode with Admin priviliges
 6. <kbd>Ctrl</kbd>+<kbd>P</kbd> -> Reload Custom CSS and JS, click Restart
 
-It should work now!
+It should work now! If it doesn't try to bugfix the Custom CSS JS loader extension.
 
 ### Configuration
 
