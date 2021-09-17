@@ -44,8 +44,8 @@ You can just change the links to the images here.
 If you want to add your own languages just go into the VSCode devtools (Help -> Toggle Developer Tools)
 and filter for "FileBG" in the console.
 
-When switching tab to the file you like add there should appear a message "Switched to tab with mode xxx"
-The "xxx" is what your language is named in vscode!
+When switching tab to the filetype tab you want to add there should appear the message "Switched to tab with mode xxx"
+The "xxx" is what the filetype is named in vscode
 
 https://user-images.githubusercontent.com/71931749/133821798-b3f42d13-9f4b-4648-8757-0d9f0711d685.mp4
 
