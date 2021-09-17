@@ -1,15 +1,15 @@
-## Custom Background Images for VSCode!
+### Custom Background Images for VSCode!
 
 https://user-images.githubusercontent.com/71931749/133819638-9b65fea0-573f-4861-ad69-fe88564c916a.mp4
 
 This extension runs on the vscode custom-css extension.
 https://github.com/be5invis/vscode-custom-css
 
-## Installation
+### Installation
 
 
 1. Download and install the VSCode Custom-CSS-and-JS loader extension from the official link: https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css
-2. Download FileBG here [LINK]
+2. Download FileBG [here](https://github.com/mangoepic/vscode-FileBG/releases/download/Release/FileBG.js) or from the releases page
 3. Add this code to your settings.json (<kbd>Ctrl</kbd>+<kbd>P</kbd> -> Open Settings (JSON))
 ```javascript
 "vscode_custom_css.imports": [
@@ -22,7 +22,7 @@ https://github.com/be5invis/vscode-custom-css
 
 It should work now!
 
-## Configuration
+### Configuration
 
 ```javascript
 FileBG.config = {
@@ -48,7 +48,8 @@ https://user-images.githubusercontent.com/71931749/133821798-b3f42d13-9f4b-4648-
 
 Example:
 > "Switched to tab with mode css"
-```
+> 
+```javascript
 FileBG.config = {
     default: "https://images.alphacoders.com/985/thumb-1920-985802.png",
     plaintext: "https://img5.goodfon.com/wallpaper/nbig/2/28/tsvety-buket-bloknot-1.jpg",
@@ -60,11 +61,11 @@ FileBG.config = {
 }
 ```
 
-## Finally
+### Finally
 Finally, have fun! The possibilities for theming are endless and your imagination are the only borders!
 If you have a nice combination you can gladly showcase it here!
 
 # vscode-FileBG
-Custom Background Images for Filetypes in VSCode
+Custom Background Images for languages in VSCode
 
 
