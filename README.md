@@ -64,6 +64,8 @@ FileBG.config = {
 }
 ```
 
+After configuring reload the JS again. (<kbd>Ctrl</kbd>+<kbd>P</kbd> -> Reload Custom CSS and JS, click Restart)
+
 ### Finally
 Finally, have fun! The possibilities for theming are endless and your imagination are the only borders!
 If you have a nice combination you can gladly showcase it here!
