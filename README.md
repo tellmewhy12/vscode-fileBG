@@ -15,8 +15,13 @@ Added more options to cover different areas of your background. 🎴
  - You can only cover your editor area now, for example
  - available modes: fullscreen, fullscreen_notitle, editor, editor_extended, panel, sidebar, sidebar_extended
 
-### Installation
+```javascript
+// available modes: fullscreen, fullscreen_notitle, editor, editor_extended, panel, sidebar, sidebar_extended
+FileBG.mode = "fullscreen_notitle";
+```
+You can choose one of the modes.
 
+### Installation
 
 1. Download and install the Custom CSS and JS Loader extension from the official link: https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css
 2. Download FileBG [here](https://github.com/mangoepic/vscode-FileBG/releases/download/Release/FileBG.js) or from the releases page
@@ -72,14 +77,6 @@ FileBG.config = {
 ```
 
 After configuring reload the JS again. (<kbd>Ctrl</kbd>+<kbd>P</kbd> -> Reload Custom CSS and JS, click Restart)
-
-### Configuring the cover area
-
-```javascript
-// available modes: fullscreen, fullscreen_notitle, editor, editor_extended, panel, sidebar, sidebar_extended
-FileBG.mode = "fullscreen_notitle";
-```
-You can choose one of the modes.
 
 ### Finally
 Finally, have fun! The possibilities for theming are endless and your imagination are the only borders!
