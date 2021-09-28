@@ -8,6 +8,13 @@ This extension runs on the vscode custom-css extension.
 
 https://github.com/be5invis/vscode-custom-css
 
+### Release Notes v21.1
+
+Added more options to cover different areas of your background. 🎴
+
+ - You can only cover your editor area now, for example
+ - available modes: fullscreen, fullscreen_notitle, editor, editor_extended, panel, sidebar, sidebar_extended
+
 ### Installation
 
 
@@ -25,7 +32,15 @@ https://github.com/be5invis/vscode-custom-css
 
 It should work now! If it doesn't try to bugfix the Custom CSS JS loader extension.
 
-### Configuration
+### Configuring the cover area
+
+```javascript
+// available modes: fullscreen, fullscreen_notitle, editor, editor_extended, panel, sidebar, sidebar_extended
+FileBG.mode = "fullscreen_notitle";
+```
+You can choose one of the modes.
+
+### Wallpaper Configuration
 
 ```javascript
 FileBG.config = {
