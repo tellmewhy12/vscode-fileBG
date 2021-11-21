@@ -37,6 +37,11 @@ You can choose one of the modes.
 
 It should work now! If it doesn't try to bugfix the Custom CSS JS loader extension.
 
+
+
+
+
+
 ### Wallpaper Configuration
 
 ```javascript
@@ -79,6 +84,6 @@ FileBG.config = {
 After configuring reload the JS again. (<kbd>Ctrl</kbd>+<kbd>P</kbd> -> Reload Custom CSS and JS, click Restart)
 
 ### Finally
-Finally, have fun! The possibilities for theming are endless and your imagination are the only borders!
-If you have a nice combination you can gladly showcase it here!
+Finally, have fun! The possibilities for theming are endless and your imagination is the only border!
+If you have a nice combination you can gladly showcase it!
 
