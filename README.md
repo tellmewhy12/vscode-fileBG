@@ -24,7 +24,7 @@ You can choose one of the modes.
 ### Installation
 
 1. Download and install the Custom CSS and JS Loader extension from the official link: https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css
-2. Download FileBG [here](https://github.com/mangoepic/vscode-FileBG/releases/download/Release/FileBG.js) or from the releases page
+2. Download the latest FileBG .js file [here](https://github.com/mangoepic/vscode-fileBG) from the releases page
 3. Add this code to your settings.json (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> -> Open Settings (JSON))
 ```javascript
 "vscode_custom_css.imports": [
