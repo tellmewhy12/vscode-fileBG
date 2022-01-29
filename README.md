@@ -31,10 +31,14 @@ You can choose one of the modes.
         "file:///D:/path/to/FileBG.js",
 ],
 ```
-4. Don't forget to insert your own path to the FileBG.js file on your computer
+4. Don't forget to insert your own path to the FileBG.js file on your computer, best in your Home folder so Custom CSS/JS loader can access it
 5. Run VSCode with Admin priviliges
 6. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> -> Reload Custom CSS and JS, click Restart
-7. There will be a notice that vscode's files have been modified by the CSS loader, you can disable it with the cog and "Don't show again".
+
+**Common Errors:**
+ - There will be a notice that vscode's files have been modified by the CSS loader, you can disable it with the cog and "Don't show again".
+ - Opening the document might give a windows warning so try to do it per hand first
+ - Save FileBG.js somewhere in your Home folder, if you get an error that it can't be loaded
 
 It should work now! If it doesn't try to bugfix the Custom CSS JS loader extension.
 
