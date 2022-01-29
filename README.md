@@ -34,6 +34,7 @@ You can choose one of the modes.
 4. Don't forget to insert your own path to the FileBG.js file on your computer
 5. Run VSCode with Admin priviliges
 6. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> -> Reload Custom CSS and JS, click Restart
+7. There will be a notice that vscode's files have been modified by the CSS loader, you can disable it with the cog and "Don't show again".
 
 It should work now! If it doesn't try to bugfix the Custom CSS JS loader extension.
 
@@ -43,6 +44,8 @@ It should work now! If it doesn't try to bugfix the Custom CSS JS loader extensi
 
 
 ### Wallpaper Configuration
+
+Open FileBG.js from the location you saved it.
 
 ```javascript
 FileBG.config = {
@@ -84,6 +87,5 @@ FileBG.config = {
 After configuring reload the JS again. (<kbd>Ctrl</kbd>+<kbd>P</kbd> -> Reload Custom CSS and JS, click Restart)
 
 ### Finally
-Finally, have fun! The possibilities for theming are endless and your imagination is the only border!
-If you have a nice combination you can gladly showcase it!
+Finally, have fun, there are many possibilities for theming, and if you find something nice or any bugs I'll be thankful if you can share them in the issues tab.
 
