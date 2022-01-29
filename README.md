@@ -25,7 +25,7 @@ You can choose one of the modes.
 
 1. Download and install the Custom CSS and JS Loader extension from the official link: https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css
 2. Download FileBG [here](https://github.com/mangoepic/vscode-FileBG/releases/download/Release/FileBG.js) or from the releases page
-3. Add this code to your settings.json (<kbd>Ctrl</kbd>+<kbd>P</kbd> -> Open Settings (JSON))
+3. Add this code to your settings.json (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> -> Open Settings (JSON))
 ```javascript
 "vscode_custom_css.imports": [
         "file:///D:/path/to/FileBG.js",
@@ -33,7 +33,7 @@ You can choose one of the modes.
 ```
 4. Don't forget to insert your own path to the FileBG.js file on your computer
 5. Run VSCode with Admin priviliges
-6. <kbd>Ctrl</kbd>+<kbd>P</kbd> -> Reload Custom CSS and JS, click Restart
+6. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> -> Reload Custom CSS and JS, click Restart
 
 It should work now! If it doesn't try to bugfix the Custom CSS JS loader extension.
 
