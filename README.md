@@ -47,4 +47,4 @@ FileBG.config = {
 FileBG.opacity = 0.9;
 ```
 
-Further information for different filetypes:
+For further information on different filetypes look into the Wiki page
